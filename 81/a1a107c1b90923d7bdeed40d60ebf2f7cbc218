@@ -1,0 +1,19 @@
+README.md
+  s_ad92b0514ac127::t_5329c30da78fa0 218,221-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81a1a107c1b90923d7bdeed40d60ebf2f7cbc218",
+  "prompts": {},
+  "sessions": {
+    "s_ad92b0514ac127": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed5c695b-94a4-43af-9496-6d82ab956fe6",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kenny Crous <kennycrous@outlook.com>"
+    }
+  }
+}
